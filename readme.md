@@ -1,7 +1,6 @@
 # BVH file reading and visualization
 
-<video src="./demo/bvh_read_demo.mp4" width="800px" height="600px" controls="controls"></video>
-
+![image](./demo/bvh_read_demo.gif)
 ### Requirment
     python3.x
     PyQt5
